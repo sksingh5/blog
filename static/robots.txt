@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://santoshsingh.net/sitemap-index.xml
